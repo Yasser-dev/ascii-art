@@ -6,7 +6,7 @@ chars = " .'`\",:;<>~?!@#$%^&*()_-+=*-/+"
 char_width = 18
 char_height = 18
 
-img = Image.open('img.jpg')
+img = Image.open('img.png')
 
 WIDTH, HEIGHT = img.size
 img = img.resize(

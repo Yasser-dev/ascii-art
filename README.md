@@ -1,6 +1,6 @@
 # Input image:
 
-![Input](./img.jpg)
+![Input](./img.png)
 
 # Output image:
 
